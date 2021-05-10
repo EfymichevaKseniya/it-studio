@@ -2,7 +2,7 @@
 https://reniary.github.io/it-studio
 
 ### Используемые технологии:
-- HTML
-- CSS
+- HTML5
+- CSS3
 - reset.css
 - JavaScript
